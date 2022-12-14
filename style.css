@@ -1,0 +1,61 @@
+html::-webkit-scrollbar {
+    display: none;
+}
+
+@media (width: 3840px) and (height: 2160px) {
+    .success {
+        background-color: #3bff69;
+        border-radius: 3px;
+        font-size: 1.5vh;
+    }
+
+    .primary {
+        background-color: #67b1ff;
+        border-radius: 3px;
+        font-size: 1.5vh;
+    }
+
+    .error {
+        background-color: #ff5365;
+        border-radius: 3px;
+        font-size: 1.5vh;
+    }
+
+    .police {
+        background-color: #3facff;
+        border-radius: 3px;
+        font-size: 1.5vh;
+    }
+
+    .ambulance {
+        background-color: #f44236;
+        border-radius: 3px;
+        font-size: 1.5vh;
+    }
+
+}
+
+.success {
+    background-color: #3bff69;
+    border-radius: 3px;
+}
+
+.primary {
+    background-color: #67b1ff;
+    border-radius: 3px;
+}
+
+.error {
+    background-color: #ff5365;
+    border-radius: 3px;
+}
+
+.police {
+    background-color: #3facff;
+    border-radius: 3px;
+}
+
+.ambulance {
+    background-color: #f44236;
+    border-radius: 3px;
+}
