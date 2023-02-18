@@ -68,4 +68,4 @@ export const BrowserMockConfigData = {
 };
 ```
 
-For help dont dm me just ask it in a thread.
+No Support Anymore!
